@@ -1,12 +1,18 @@
-# 👋 أهلاً، أنا AMER
+# 👋 Hello, I'm AMER
 
-مبرمج أنظمة تشغيل، تطبيقات ويب، تطبيقات هاتف، ذكاء اصطناعي، ومطور ألعاب باستخدام محركات مثل Unity و Unreal Engine. أتعلم وأستخدم لغات متعددة مثل C++, C#, Python، وغيرها. أؤمن بأن البرمجة ليست مجرد كود، بل وسيلة لصناعة المستقبل.
+A systems developer and AI/game developer with experience in operating systems, web applications, mobile applications, and game development using engines like Unity and Unreal Engine. I learn and use multiple programming languages such as C++, C#, Python, JavaScript, and more. I believe programming is not just about writing code—it's about crafting the future.
 
 ---
 
-## 🧠 المهارات والتقنيات
+## 🖼️ Featured Image
 
-### 🔷 لغات البرمجة
+![Anime Character with Cake](https://copilot.microsoft.com/th/id/BCO.85c4fcbd-790b-4ddb-ac95-b318dbeeadff.png)
+
+---
+
+## 🧠 Skills and Technologies
+
+### 🔷 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,7 +21,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
 
-### 🧰 أدوات التطوير
+### 🧰 Development Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -23,16 +29,16 @@
 
 ---
 
-## 🎮 مشاريع أنمي وألعاب
+## 🎮 Anime and Game Projects
 
-- [مشروع Anime API](https://github.com/AMER/anime-api)
-- [موقع لمراجعة الأنمي](https://amer-anime-review.vercel.app/)
-- [لعبة ثلاثية الأبعاد باستخدام Unity](https://github.com/AMER/unity-3d-game)
-- [نظام ذكاء اصطناعي للتوصية بالأنمي](https://github.com/AMER/anime-ai-recommender)
+- [Anime API Project](https://github.com/AMER/anime-api)
+- [Anime Review Website (Vercel)](https://amer-anime-review.vercel.app/)
+- [3D Game with Unity](https://github.com/AMER/unity-3d-game)
+- [AI Anime Recommendation System](https://github.com/AMER/anime-ai-recommender)
 
 ---
 
-## 📺 أنميات مفضلة
+## 📺 Favorite Anime
 
 - [Steins;Gate](https://myanimelist.net/anime/9253)
 - [Attack on Titan](https://myanimelist.net/anime/16498)
@@ -44,26 +50,26 @@
 
 ---
 
-## 📚 كتب مفضلة
+## 📚 Favorite Books
 
-- "Clean Code" لـ Robert C. Martin  
-- "The Pragmatic Programmer"  
-- "Introduction to Algorithms"  
-- "Artificial Intelligence: A Modern Approach"
-
----
-
-## 🧙‍♂️ شخصيات مفضلة
-
-- Lelouch vi Britannia (Code Geass)
-- Okabe Rintarou (Steins;Gate)
-- Guts (Berserk)
-- Thorfinn (Vinland Saga)
-- Johan Liebert (Monster)
+- *Clean Code* by Robert C. Martin  
+- *The Pragmatic Programmer*  
+- *Introduction to Algorithms*  
+- *Artificial Intelligence: A Modern Approach*
 
 ---
 
-## 📬 تواصل معي
+## 🧙‍♂️ Favorite Characters
+
+- Lelouch vi Britannia (*Code Geass*)
+- Okabe Rintarou (*Steins;Gate*)
+- Guts (*Berserk*)
+- Thorfinn (*Vinland Saga*)
+- Johan Liebert (*Monster*)
+
+---
+
+## 📬 Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-AMER-black?style=for-the-badge&logo=github)](https://github.com/AMER)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AMER-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/AMER)  
@@ -71,4 +77,14 @@
 
 ---
 
-> "البرمجة ليست مجرد كتابة أكواد، بل هي فن بناء العوالم." – AMER
+> *"Programming isn't just about writing code; it's about building worlds."* – AMERAyako Kuroba](https://anilist.co/character/200612)
+* [Nepgear](https://anilist.co/character/49927)
+* [Jibril](https://anilist.co/character/87887)
+<!-- favorites_characters ends -->
+
+</details>
+
+Feel free to contact me :yum:
+<br><br>
+<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
+<a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img s
