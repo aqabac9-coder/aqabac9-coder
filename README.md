@@ -1,7 +1,5 @@
 <p align="center">
-  [![6492d6a0f7c43baf2fe431284244ce57.jpg](https://i.postimg.cc/mZ7jW43v/6492d6a0f7c43baf2fe431284244ce57.jpg)](https://postimg.cc/jCdPyGFc)
-  https://i.postimg.cc/mZ7jW43v/6492d6a0f7c43baf2fe431284244ce57.jpg
-  https://postimg.cc/jCdPyGFc
+  
   <img src="https://copilot.microsoft.com/th/id/BCO.8450ccf7-b6ff-4b4f-a7c9-9e79e3dbc6a6.png" alt="AMER Character" width="300"/>
 </p>
 
@@ -21,3 +19,6 @@
 <html lang="en
 \\\
 
+<p align="center">
+  <img src="https://i.imgur.com/abc123.jpeg" width="250"/>
+</p>
