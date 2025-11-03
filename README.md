@@ -1,5 +1,4 @@
 <p align="center">
-  ![My Image](images/amer.jpeg)
   <img src="https://copilot.microsoft.com/th/id/BCO.8450ccf7-b6ff-4b4f-a7c9-9e79e3dbc6a6.png" alt="AMER Character" width="300"/>
 </p>
 
@@ -19,3 +18,6 @@
 <!DOCTYPE html>
 <html lang="en
 \\\
+<p align="center">
+  <img src="images/amer.jpeg" width="250"/>
+</p>
