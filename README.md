@@ -16,9 +16,3 @@
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-<p align="center"><i>"Programming isn't just about writing code; it's about building worlds." — AMER</i></p>
-https://copilot.microsoft.com/th/id/BCO.8450ccf7-b6ff-4b4f-a7c9-9e79e3dbc6a6.png
-https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/C++-darkblue?style=for-the-badge&logo=c%2B%2B&logoColor=white
-https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white
-https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white
