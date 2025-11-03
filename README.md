@@ -3,10 +3,12 @@
   <img src="https://copilot.microsoft.com/th/id/BCO.8450ccf7-b6ff-4b4f-a7c9-9e79e3dbc6a6.png" alt="AMER Character" width="300"/>
 </p>
 
-<h1 align="center"> AMER</h1>
+<h1 align="center"> AMER </h1>
 
 <p align="center">
-  AMER:<br>
+   
+
+Marhaban ana Amer khabeer barmaja, muta'allim lughat barmaja C# wa Java wa ghayriha min lughat albarmaja. Abarmij anzhima al-tashgheel baseeta aw mu'aqqada wa tatbeeqat wa ghayriha min al-ashya<br>
 </p>
 
 <p align="center">
@@ -19,6 +21,3 @@
 <html lang="en
 \\\
 
-<p align="center">
-  <img src="https://i.imgur.com/abc123.jpeg" width="8450"/>
-</p>
