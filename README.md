@@ -20,5 +20,5 @@
 \\\
 
 <p align="center">
-  <img src="https://i.imgur.com/abc123.jpeg" width="250"/>
+  <img src="https://i.imgur.com/abc123.jpeg" width="8450"/>
 </p>
