@@ -9,13 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  ![My Image](images/amer.jpeg)
   <img src="https://img.shields.io/badge/C++-darkblue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 <!DOCTYPE html>
-<html lang="en">
-<head
+<html lang="en
 \\\
