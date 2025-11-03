@@ -20,3 +20,8 @@
 <html lang="en">
 <head
 \\\
+![Java](https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+
+https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white
