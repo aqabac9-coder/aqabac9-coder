@@ -5,8 +5,7 @@
 <h1 align="center"> AMER</h1>
 
 <p align="center">
-  A systems developer specialized in:<br>
-  Operating systems · Web applications · Android mobile apps
+  AMER:<br>
 </p>
 
 <p align="center">
