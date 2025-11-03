@@ -1,21 +1,22 @@
-<div style="background-color:black; padding:20px; color:white; text-align:center; font-family:sans-serif;">
+<p align="center">
+  <img src="IMAGE_URL_HERE" alt="Anime Character" width="250"/>
+</p>
 
-<img src="IMAGE_URL_HERE" alt="Anime Character" style="width:250px; border-radius:10px;">
+<h1 align="center">👋 Hello, I'm AMER</h1>
 
-## 👋 Hello, I'm AMER
+<p align="center">
+  A systems developer specialized in:<br>
+  Operating systems · Web applications · Android mobile apps
+</p>
 
-A systems developer specialized in:
-- Operating systems
-- Web applications
-- Android mobile apps
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
-### 💻 Programming Languages I Use:
-- Python
-- C++
-- C#
-- Java
-- And more...
-
-> "Programming isn't just about writing code; it's about building worlds." — AMER
-
-</div>
+<p align="center"><i>"Programming isn't just about writing code; it's about building worlds." — AMER</i></p>
+https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=whitehttps://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white
+https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white
+https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white 
