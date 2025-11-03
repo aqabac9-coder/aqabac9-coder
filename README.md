@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  
   <img src="https://img.shields.io/badge/C++-darkblue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
@@ -19,8 +18,5 @@
 <html lang="en
 \\\
 <p align="center">
-  <img src="images/amer.jpeg" width="250"/>
-</p>
-<p align="center">
-  <img src="images/amer.jpeg" width="250"/>
+  <img src="https://raw.githubusercontent.com/aqaba9-coder/aqaba9-coder/main/images/amer.jpeg" width="250"/>
 </p>
