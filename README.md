@@ -1,24 +1,94 @@
 <p align="center">
-  
-  <img src="https://copilot.microsoft.com/th/id/BCO.8450ccf7-b6ff-4b4f-a7c9-9e79e3dbc6a6.png" alt="AMER Character" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Saber_%28Fate_stay_night%29.png" alt="Anime Warrior Profile" width="260"/>
 </p>
 
-<h1 align="center"> AMER </h1>
+<pre align="center">
+ █████╗ ███╗   ███╗███████╗██████╗ 
+██╔══██╗████╗ ████║██╔════╝██╔══██╗
+███████║██╔████╔██║█████╗  ██████╔╝
+██╔══██║██║╚██╔╝██║██╔══╝  ██╔══██╗
+██║  ██║██║ ╚═╝ ██║███████╗██║  ██║
+╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+</pre>
 
 <p align="center">
-   
-
-Marhaban ana Amer khabeer barmaja, muta'allim lughat barmaja C# wa Java wa ghayriha min lughat albarmaja. Abarmij anzhima al-tashgheel baseeta aw mu'aqqada wa tatbeeqat wa ghayriha min al-ashya<br>
+LOW-LEVEL PROGRAMMER · SYSTEMS · LINUX
 </p>
+
+---
+
+## ABOUT
+
+I am **Amer Mohammed Imran**.  
+A programmer focused on low-level systems, experimental projects, and understanding
+software from the inside out.
+
+I work close to the machine: memory, processes, binaries, and operating system behavior.
+Abstractions are used only when fully understood.
+
+---
+
+## CORE LANGUAGES
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-darkblue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<!DOCTYPE html>
-<html lang="en
-\\\
+---
 
+## SYSTEMS & ENVIRONMENT
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+- Linux command-line mastery
+- Process lifecycle and signals
+- File systems and permissions
+- Shell scripting and automation
+- CLI-first workflow
+
+---
+
+## TECHNICAL ROADMAP
+
+### Phase 1 — Foundations
+- Advanced C syntax and memory model
+- Pointers, stacks, heaps
+- Manual memory management
+- Compilation and linking process
+
+### Phase 2 — C++ Systems Programming
+- RAII and object lifetime
+- STL internals
+- Performance-aware design
+- Build systems (Make / CMake)
+
+### Phase 3 — Linux Internals
+- Processes vs threads
+- `/proc` and system calls
+- Signals and IPC
+- File descriptors
+
+### Phase 4 — Tooling & Utilities
+- Custom CLI tools
+- File managers
+- Process monitors
+- System inspection utilities
+
+### Phase 5 — Advanced Topics
+- Low-level debugging (gdb)
+- Binary analysis basics
+- OS-level concepts
+- Performance profiling
+
+---
+
+## EDUCATION
+
+- University student
+- Continuous self-learning through real-world projects
+- Strong focus on fundamentals and system behavior
