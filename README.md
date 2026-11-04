@@ -1,33 +1,23 @@
 
 <!-- ================================================= -->
-<!--                  AMER PROFILE                    -->
+<!--                 AMER PROFILE                     -->
 <!-- ================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:550000,100:990000&height=220&section=header&text=AMER&fontSize=85&fontColor=FFFFFF&fontAlignY=38&desc=R%26D%20in%20Software%20Engineering%20%26%20Systems%20Development&descSize=13&descAlignY=62" width="100%" alt="AMER Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:8B0000,100:FF2020&height=220&section=header&text=AMER&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=PROGRAMMING%20%7C%20SYSTEMS%20%7C%20TECHNOLOGY&descAlignY=60&descSize=16" width="100%"/>
 
-<br/>
+  <h1>AMER</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=FF3030&center=true&vCenter=true&width=650&lines=Software+Engineering;Systems+Development;Research+%26+Development;Learn+%7C+Research+%7C+Build" alt="Animated text"/>
+  <p>
+    <b>PROGRAMMING • SYSTEMS • SOFTWARE DEVELOPMENT</b>
+  </p>
 
-</div>
-
----
-
-<div align="center">
-
-[ ABOUT ](#about) •
-[ TECHNOLOGIES ](#technologies) •
-[ PROJECTS ](#projects) •
-[ ROADMAP ](#roadmap) •
-[ STATISTICS ](#statistics)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=Learning+how+software+works.;Building+projects+step+by+step.;Exploring+programming+and+systems." alt="Typing SVG"/>
 
 </div>
 
 ---
-
-<a name="about"></a>
 
 ## 01 / ABOUT ME
 
