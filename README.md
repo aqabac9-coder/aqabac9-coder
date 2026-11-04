@@ -1,94 +1,143 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Saber_%28Fate_stay_night%29.png" alt="Anime Warrior Profile" width="260"/>
-</p>
 
-<pre align="center">
- █████╗ ███╗   ███╗███████╗██████╗ 
-██╔══██╗████╗ ████║██╔════╝██╔══██╗
-███████║██╔████╔██║█████╗  ██████╔╝
-██╔══██║██║╚██╔╝██║██╔══╝  ██╔══██╗
-██║  ██║██║ ╚═╝ ██║███████╗██║  ██║
-╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
-</pre>
+<!-- ================================================= -->
+<!--                 AMER PROFILE                     -->
+<!-- ================================================= -->
 
-<p align="center">
-LOW-LEVEL PROGRAMMER · SYSTEMS · LINUX
-</p>
+<div align="center">
 
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:8B0000,100:FF2020&height=220&section=header&text=AMER&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=PROGRAMMING%20%7C%20SYSTEMS%20%7C%20TECHNOLOGY&descAlignY=60&descSize=16" width="100%"/>
 
-## ABOUT
+  <h1>AMER</h1>
 
-I am **Amer Mohammed Imran**.  
-A programmer focused on low-level systems, experimental projects, and understanding
-software from the inside out.
+  <p>
+    <b>PROGRAMMING • SYSTEMS • SOFTWARE DEVELOPMENT</b>
+  </p>
 
-I work close to the machine: memory, processes, binaries, and operating system behavior.
-Abstractions are used only when fully understood.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=Learning+how+software+works.;Building+projects+step+by+step.;Exploring+programming+and+systems." alt="Typing SVG"/>
+
+</div>
 
 ---
 
-## CORE LANGUAGES
+## 01 / ABOUT ME
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+```text
+Name       : Amer Mohammed Imran
+Username   : AMER
+Interests  : Programming & Technology
+Focus      : Software Development
+Approach   : Learn • Build • Improve
+```
 
----
+I am Amer, a programming enthusiast interested in understanding
+how software works, exploring computer systems, and developing
+my programming skills through practical projects.
 
-## SYSTEMS & ENVIRONMENT
+My interests include programming languages, operating systems,
+software development, and computer architecture.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-
-- Linux command-line mastery
-- Process lifecycle and signals
-- File systems and permissions
-- Shell scripting and automation
-- CLI-first workflow
+I believe in understanding the fundamentals before relying
+on abstractions.
 
 ---
 
-## TECHNICAL ROADMAP
+## 02 / PROGRAMMING LANGUAGES
 
-### Phase 1 — Foundations
-- Advanced C syntax and memory model
-- Pointers, stacks, heaps
-- Manual memory management
-- Compilation and linking process
+<div align="center">
 
-### Phase 2 — C++ Systems Programming
-- RAII and object lifetime
-- STL internals
-- Performance-aware design
-- Build systems (Make / CMake)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs&theme=dark" />
 
-### Phase 3 — Linux Internals
-- Processes vs threads
-- `/proc` and system calls
-- Signals and IPC
-- File descriptors
-
-### Phase 4 — Tooling & Utilities
-- Custom CLI tools
-- File managers
-- Process monitors
-- System inspection utilities
-
-### Phase 5 — Advanced Topics
-- Low-level debugging (gdb)
-- Binary analysis basics
-- OS-level concepts
-- Performance profiling
+</div>
 
 ---
 
-## EDUCATION
+## 03 / TECHNOLOGIES & TOOLS
 
-- University student
-- Continuous self-learning through real-world projects
-- Strong focus on fundamentals and system behavior
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,androidstudio,cmake&theme=dark" />
+
+</div>
+
+---
+
+## 04 / AREAS OF INTEREST
+
+| Area | Focus |
+|:---|:---|
+| Programming | Algorithms & Programming Fundamentals |
+| Systems | Operating Systems & Architecture |
+| Linux | Command Line & System Administration |
+| C / C++ | Memory & Low-Level Concepts |
+| Development | Software & Applications |
+| Technology | Computer Science |
+
+---
+
+## 05 / CURRENT LEARNING ROADMAP
+
+```text
+[01] PROGRAMMING FOUNDATIONS
+     ├── Variables and Data Types
+     ├── Conditions and Loops
+     └── Functions and Algorithms
+
+[02] C / C++ DEVELOPMENT
+     ├── Memory Management
+     ├── Pointers
+     └── Object-Oriented Programming
+
+[03] COMPUTER SYSTEMS
+     ├── Operating Systems
+     ├── Processes and Threads
+     └── Computer Architecture
+
+[04] PROJECT DEVELOPMENT
+     ├── Command-Line Applications
+     ├── Desktop Utilities
+     └── Experimental Projects
+```
+
+---
+
+## 06 / GITHUB STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080808&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080808&title_color=FF3030&text_color=FFFFFF" />
+
+</div>
+
+---
+
+## 07 / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=080808&ring=FF3030&fire=FF3030&currStreakLabel=FF3030" width="90%"/>
+
+</div>
+
+---
+
+## 08 / PHILOSOPHY
+
+<div align="center">
+
+> "Understand the system. Build the solution."
+
+**LEARN — EXPLORE — BUILD — IMPROVE**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:8B0000,100:080808&height=120&section=footer" width="100%"/>
+
+**AMER © 2026**
+
+</div>
