@@ -1,11 +1,11 @@
 
 <!-- ================================================= -->
-<!--                 AMER PROFILE                     -->
+<!--                  AMER PROFILE                    -->
 <!-- ================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:350000,100:990000&height=220&section=header&text=AMER&fontSize=85&fontColor=FFFFFF&fontAlignY=38&desc=R%26D%20in%20Software%20Engineering%20%26%20Systems%20Development&descSize=13&descAlignY=62&animation=fadeIn" width="100%" alt="AMER Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:550000,100:990000&height=220&section=header&text=AMER&fontSize=85&fontColor=FFFFFF&fontAlignY=38&desc=R%26D%20in%20Software%20Engineering%20%26%20Systems%20Development&descSize=13&descAlignY=62" width="100%" alt="AMER Header"/>
 
 <br/>
 
@@ -82,11 +82,11 @@ alt="Animated terminal messages"
 
 ### PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs&theme=dark" alt="Programming language icons"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs&theme=dark" alt="Programming languages"/>
 
 ### TOOLS & ENVIRONMENT
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,cmake&theme=dark" alt="Development tools icons"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,cmake&theme=dark" alt="Development tools"/>
 
 </div>
 
@@ -175,17 +175,17 @@ Projects will be documented here as they are developed.
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080808&title_color=FF3030&icon_color=990000&text_color=FFFFFF"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080808&title_color=FF3030&icon_color=990000&text_color=FFFFFF"
 width="95%"
-alt="GitHub statistics"
+alt="GitHub Statistics"
 />
 
 <br/><br/>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080808&title_color=FF3030&text_color=FFFFFF"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080808&title_color=FF3030&text_color=FFFFFF"
 width="95%"
-alt="Most used programming languages"
+alt="Most Used Languages"
 />
 
 <br/><br/>
@@ -193,7 +193,7 @@ alt="Most used programming languages"
 <img
 src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=080808&ring=990000&fire=FF3030&currStreakLabel=FF3030"
 width="95%"
-alt="GitHub contribution streak"
+alt="GitHub Contribution Streak"
 />
 
 </div>
@@ -229,3 +229,4 @@ Build the solution.
 <sub>AMER © 2026</sub>
 
 </div>
+
