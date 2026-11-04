@@ -1,15 +1,15 @@
 
-<!-- ================================================ -->
-<!--                 AMER GITHUB PROFILE              -->
-<!-- ================================================ -->
+<!-- ================================================= -->
+<!--                 AMER PROFILE                     -->
+<!-- ================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:350000,100:990000&height=230&section=header&text=AMER&fontSize=90&fontColor=FFFFFF&fontAlignY=38&desc=R%26D%20in%20Software%20Engineering%20%26%20Systems%20Development&descSize=14&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:350000,100:990000&height=220&section=header&text=AMER&fontSize=85&fontColor=FFFFFF&fontAlignY=38&desc=R%26D%20in%20Software%20Engineering%20%26%20Systems%20Development&descSize=13&descAlignY=62&animation=fadeIn" width="100%" alt="AMER Header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=900&color=FF3030&center=true&vCenter=true&width=650&lines=%3E+Initializing+AMER+Development+Environment...;%3E+Exploring+Software+Engineering...;%3E+Building+Systems+and+Applications...;%3E+Learning.+Researching.+Developing." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=FF3030&center=true&vCenter=true&width=650&lines=Software+Engineering;Systems+Development;Research+%26+Development;Learn+%7C+Research+%7C+Build" alt="Animated text"/>
 
 </div>
 
@@ -29,7 +29,7 @@
 
 <a name="about"></a>
 
-## 01 / ABOUT
+## 01 / ABOUT ME
 
 ```text
 IDENTITY       : AMER
@@ -57,13 +57,18 @@ expand my technical knowledge.
 
 <div align="center">
 
-<!-- Add your own animated computer GIF to assets/code-terminal.gif -->
-
-<img src="./assets/code-terminal.gif" width="85%" alt="AMER Programming Environment"/>
+<img
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+width="85%"
+alt="Animated programmer working with code"
+/>
 
 <br/>
 
-<sub>AMER DEVELOPMENT ENVIRONMENT // CODE IN MOTION</sub>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=FF3030&center=true&vCenter=true&width=550&lines=Initializing+development+environment...;Loading+programming+modules...;Exploring+system+architecture...;Ready+to+develop."
+alt="Animated terminal messages"
+/>
 
 </div>
 
@@ -77,11 +82,11 @@ expand my technical knowledge.
 
 ### PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs&theme=dark" alt="Programming language icons"/>
 
 ### TOOLS & ENVIRONMENT
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,cmake&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,cmake&theme=dark" alt="Development tools icons"/>
 
 </div>
 
@@ -127,13 +132,11 @@ expand my technical knowledge.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECTS-UNDER%20DEVELOPMENT-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AMER-PROJECTS-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="AMER Projects"/>
 
 </div>
 
 Projects will be documented here as they are developed.
-
-<!-- Add projects here -->
 
 ---
 
@@ -171,13 +174,27 @@ Projects will be documented here as they are developed.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080808&title_color=FF3030&icon_color=990000&text_color=FFFFFF" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080808&title_color=FF3030&text_color=FFFFFF" width="49%"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080808&title_color=FF3030&icon_color=990000&text_color=FFFFFF"
+width="95%"
+alt="GitHub statistics"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=080808&ring=990000&fire=FF3030&currStreakLabel=FF3030" width="85%"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080808&title_color=FF3030&text_color=FFFFFF"
+width="95%"
+alt="Most used programming languages"
+/>
+
+<br/><br/>
+
+<img
+src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=080808&ring=990000&fire=FF3030&currStreakLabel=FF3030"
+width="95%"
+alt="GitHub contribution streak"
+/>
 
 </div>
 
@@ -207,8 +224,8 @@ Build the solution.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:990000,50:350000,100:050505&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:990000,50:350000,100:050505&height=130&section=footer" width="100%" alt="AMER Footer"/>
 
-<sub>AMER © 2026 — SOFTWARE ENGINEERING & SYSTEMS DEVELOPMENT</sub>
+<sub>AMER © 2026</sub>
 
 </div>
