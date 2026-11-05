@@ -15,9 +15,7 @@
     <b>PROGRAMMING • SYSTEMS • SOFTWARE DEVELOPMENT</b>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=Learning+how+software+works.;Building+projects+step+by+step.;Exploring+programming+and+systems." alt="Typing SVG"/>
-
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=Learning+how+software+works.;Building+projects+step+by+step.;Exploring+programming+and+systems." alt="Typing SVG"/> </div>
 
 ---
 
