@@ -1,11 +1,24 @@
-<!-- ================================================= -->
+
+
+
+!-- ================================================= -->
 <!--                 AMER PROFILE                     -->
 <!-- ================================================= -->
 
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:8B0000,100:FF2020&height=220&section=header&text=AMER&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=PROGRAMMING%20%7C%20SYSTEMS%20%7C%20TECHNOLOGY&descAlignY=60&descSize=16" width="100%"/>
-  
+
+  <h1>AMER</h1>
+
+  <p>
+    <b>PROGRAMMING • SYSTEMS • SOFTWARE DEVELOPMENT</b>
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=Learning+how+software+works.;Building+projects+step+by+step.;Exploring+programming+and+systems." alt="Typing SVG"/>
+
+</div>
+
 ---
 
   <h1>AMER</h1>
