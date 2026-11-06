@@ -56,15 +56,7 @@
 ---
 
 <!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B12&title_color=FF4057&icon_color=4A78C2&text_color=CBD5E1&rank_icon=github"
-  alt="GitHub statistics"
-/>
 
 <img
   height="165"
