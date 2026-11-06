@@ -44,21 +44,7 @@
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
 </p>
 
-## GitHub Stats
 
-<div align="center">
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF334B&amp;text_color=C9D1D9&amp;icon_color=3B82F6"
-    alt="GitHub statistics"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF334B&amp;text_color=C9D1D9"
-    alt="Most used languages"
-  />
 
   <br/><br/>
 
