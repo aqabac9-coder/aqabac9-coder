@@ -66,10 +66,7 @@
 
 <br/><br/>
 
-<img
-  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=080B12&ring=FF4057&fire=FF4057&currStreakLabel=4A78C2&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
-  alt="GitHub contribution streak"
-/>
+
 
 </div>
 
