@@ -9,24 +9,7 @@
   <br/>
 
   
-<!-- ==================== HERO SECTION ==================== -->
-<div align="center">
 
-  <!-- Dark red / black / navy banner -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:05070D,40:3B0717,75:10274A,100:05070D&amp;height=220&amp;section=header&amp;text=AMER&amp;fontSize=76&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=SOFTWARE%20ENGINEERING%20%7C%20SYSTEMS%20DEVELOPMENT&amp;descAlignY=58&amp;descSize=14"
-    width="100%"
-    alt="AMER profile banner"
-  />
-
-  <br/>
-
-  <!-- Upload your image to the repository at: assets/mio-haimiya.png -->
-  <img
-    src="./assets/mio-haimiya.png"
-    width="165"
-    alt="Mio Haimiya anime profile image"
-  />
 
   <h1>Hi, I'm AMER 👋</h1>
 
