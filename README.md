@@ -84,15 +84,6 @@
 ---
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
-## 🔥 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=080B12&color=CBD5E1&line=FF4057&point=4A78C2&area=true&hide_border=true"
-  width="95%"
-  alt="GitHub contribution activity graph"
-/>
 
 </div>
 
