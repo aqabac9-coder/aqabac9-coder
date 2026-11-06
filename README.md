@@ -1,31 +1,35 @@
 
-<div align="center">
 
-  <!-- Main banner: dark red, black, and navy -->
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:05070D,40:3B0717,75:10274A,100:05070D&amp;height=230&amp;section=header&amp;text=AMER&amp;fontSize=78&amp;fontColor=FFFFFF&amp;fontAlignY=35&amp;desc=R%26D%20IN%20SOFTWARE%20ENGINEERING%20%7C%20SYSTEMS%20DEVELOPMENT&amp;descAlignY=58&amp;descSize=14"
     width="100%"
-    alt="AMER — Software Engineering and Systems Development"
+    alt="AMER profile banner"
   />
+</p>
 
-  <br/><br/>
-
-  <!-- Add the image to your repository at assets/mio-haimiya.png -->
+<p align="center">
   <img
     src="./assets/mio-haimiya.png"
     width="155"
     alt="Mio Haimiya anime profile image"
   />
+</p>
 
-  <br/><br/>
+<h1 align="center">Hi, I'm AMER 👋</h1>
 
+<p align="center">
+  <strong>R&amp;D in Software Engineering &amp; Systems Development</strong>
+</p>
+
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=17&amp;duration=2800&amp;pause=900&amp;color=FF334B&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Exploring+Software+Engineering.;Learning+C%2B%2B+%26+C%23.;Building+Projects+and+Exploring+Systems."
     alt="Animated introduction"
   />
+</p>
 
-  <br/><br/>
-
+<p align="center">
   <img
     src="https://img.shields.io/badge/FOCUS-Software%20Engineering-3B0717?style=for-the-badge"
     alt="Focus: Software Engineering"
@@ -34,9 +38,9 @@
     src="https://img.shields.io/badge/INTEREST-Systems%20Development-10274A?style=for-the-badge"
     alt="Interest: Systems Development"
   />
+</p>
 
-  <br/><br/>
-
+<p align="center">
   <img
     src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&amp;logo=cplusplus&amp;logoColor=60A5FA"
     alt="C++"
@@ -45,8 +49,9 @@
     src="https://img.shields.io/badge/C%23-3B0717?style=flat-square&amp;logo=csharp&amp;logoColor=FFFFFF"
     alt="C#"
   />
+</p>
 
-</div>
+
 
   <h1>Hi, I'm AMER 👋</h1>
 
