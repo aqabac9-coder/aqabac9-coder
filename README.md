@@ -1,149 +1,108 @@
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:550000,100:123B73&height=220&section=header&text=AMER&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=R%26D%20%7C%20Software%20Engineering%20%26%20Systems%20Development&descAlignY=60&descSize=14"
+  width="100%"
+  alt="AMER profile header"
+/>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:05070D,40:3B0717,75:10274A,100:05070D&amp;height=230&amp;section=header&amp;text=AMER&amp;fontSize=78&amp;fontColor=FFFFFF&amp;fontAlignY=35&amp;desc=R%26D%20IN%20SOFTWARE%20ENGINEERING%20%7C%20SYSTEMS%20DEVELOPMENT&amp;descAlignY=58&amp;descSize=14"
-    width="100%"
-    alt="AMER profile banner"
-  />
-</p>
+<br/>
 
-<p align="center">
-  <img
-    src="./assets/mio-haimiya.png"
-    width="155"
-    alt="Mio Haimiya anime profile image"
-  />
-</p>
+<!-- Anime-inspired avatar. Replace the URL with a direct GIF URL for an animated avatar. -->
+<img
+  src="https://api.dicebear.com/9.x/lorelei/svg?seed=AMER&backgroundColor=0b0b0b"
+  width="190"
+  alt="Anime-inspired avatar"
+/>
 
-<h1 align="center">Hi, I'm AMER 👋</h1>
+<h1>Hi, I'm AMER 👋</h1>
 
-<p align="center">
-  <strong>R&amp;D in Software Engineering &amp; Systems Development</strong>
-</p>
+<p><b>R&D in Software Engineering & Systems Development</b></p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=17&amp;duration=2800&amp;pause=900&amp;color=FF334B&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Exploring+Software+Engineering.;Learning+C%2B%2B+%26+C%23.;Building+Projects+and+Exploring+Systems."
-    alt="Animated introduction"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/FOCUS-Software%20Engineering-3B0717?style=for-the-badge"
-    alt="Focus: Software Engineering"
-  />
-  <img
-    src="https://img.shields.io/badge/INTEREST-Systems%20Development-10274A?style=for-the-badge"
-    alt="Interest: Systems Development"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&amp;logo=cplusplus&amp;logoColor=60A5FA"
-    alt="C++"
-  />
-  <img
-    src="https://img.shields.io/badge/C%23-3B0717?style=flat-square&amp;logo=csharp&amp;logoColor=FFFFFF"
-    alt="C#"
-  />
-</p>
-
-
-
-  <h1>Hi, I'm AMER 👋</h1>
-
-  <p>
-    <strong>R&amp;D in Software Engineering &amp; Systems Development</strong>
-  </p>
-
-  <p>
-    Exploring software, programming, and systems development —
-    building projects as I learn.
-  </p>
-
-  <!-- Animated intro -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;duration=2800&amp;pause=900&amp;color=FF334B&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Exploring+Software+Engineering.;Learning+C%2B%2B+%26+C%23.;Building+Projects+Step+by+Step."
-    alt="Animated introduction"
-  />
-
-  <br/><br/>
-
-  <!-- Areas of interest -->
-  <img
-    src="https://img.shields.io/badge/FOCUS-Software%20Engineering-3B0717?style=for-the-badge"
-    alt="Focus: Software Engineering"
-  />
-  <img
-    src="https://img.shields.io/badge/INTEREST-Systems%20Development-10274A?style=for-the-badge"
-    alt="Interest: Systems Development"
-  />
-
-  <br/><br/>
-
-  <!-- Technologies I'm exploring -->
-  <img
-    src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&amp;logo=cplusplus&amp;logoColor=60A5FA"
-    alt="C++"
-  />
-  <img
-    src="https://img.shields.io/badge/C%23-3B0717?style=flat-square&amp;logo=csharp&amp;logoColor=FFFFFF"
-    alt="C#"
-  />
-
-  <br/><br/>
-
-  <!-- Replace YOUR_GITHUB_USERNAME with your GitHub username -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Explore%20My%20Repositories-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white"
-      alt="Explore my GitHub repositories"
-    />
-  </a>
-
-</div>
-<!-- ================== END HERO SECTION ================== -->
-
----
-
-## About Me
-
-- 🔬 Interested in software engineering and systems development
-- 💻 Exploring programming languages and software projects
-- 🎯 Focused on learning by building, one project at a time
-
-## Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=60A5FA" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-3B0717?style=for-the-badge&amp;logo=csharp&amp;logoColor=FFFFFF" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-111827?style=for-the-badge&amp;logo=dotnet&amp;logoColor=8B9DFF" alt=".NET" />
-  <img src="https://img.shields.io/badge/Python-10274A?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-10274A?style=for-the-badge&amp;logo=typescript&amp;logoColor=60A5FA" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-3B0717?style=for-the-badge&amp;logo=html5&amp;logoColor=FF6B6B" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-10274A?style=for-the-badge&amp;logo=css3&amp;logoColor=60A5FA" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&amp;logo=linux&amp;logoColor=FCC624" alt="Linux" />
-</p>
-
-
-
-  <br/><br/>
-
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=FF334B&amp;fire=FF334B&amp;currStreakLabel=60A5FA"
-    alt="GitHub contribution streak"
-  />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=FF4057&center=true&vCenter=true&width=650&lines=Learning+how+software+works.;Building+projects+step+by+step.;Exploring+C%2B%2B%2C+C%23%2C+and+systems."
+  alt="Animated introduction"
+/>
 
 </div>
 
 ---
+
+<!-- ===================== ABOUT ME ===================== -->
+## 🧑‍💻 About Me
+
+- 🔬 Interested in software engineering, research, and systems development.
+- 🌱 Learning by building projects and exploring how software works.
+- 💡 Focused on improving my programming and problem-solving skills.
+- 🎯 Working toward creating useful, well-built software.
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+</p>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <i>Thanks for visiting my profile!</i>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B12&title_color=FF4057&icon_color=4A78C2&text_color=CBD5E1&rank_icon=github"
+  alt="GitHub statistics"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B12&title_color=FF4057&text_color=CBD5E1&langs_count=8"
+  alt="Most used programming languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=080B12&ring=FF4057&fire=FF4057&currStreakLabel=4A78C2&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
+  alt="GitHub contribution streak"
+/>
+
 </div>
 
+---
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+## 🔥 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=080B12&color=CBD5E1&line=FF4057&point=4A78C2&area=true&hide_border=true"
+  width="95%"
+  alt="GitHub contribution activity graph"
+/>
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:123B73,50:550000,100:080808&height=120&section=footer"
+  width="100%"
+  alt="Profile footer"
+/>
+
+</div>
