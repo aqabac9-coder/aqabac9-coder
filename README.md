@@ -8,13 +8,6 @@
 
   <br/>
 
-  <!-- Add your Mio Haimiya image to the repository at assets/mio-haimiya.png -->
-  <img
-    src="./assets/mio-haimiya.png"
-    width="180"
-    alt="Anime profile image"
-  />
-
   <h1>Hi, I'm AMER 👋</h1>
 
   <p>
